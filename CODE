@@ -1,0 +1,14 @@
+
+public class MyClass {
+    // Default constructor
+    public MyClass() {
+        // Initialization code here
+    }
+
+    // Parameterized constructor
+    public MyClass(int parameter1, String parameter2) {
+        // Initialization code using parameters here
+    }
+}
+
+
